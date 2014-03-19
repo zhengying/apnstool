@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/anachronistic/apns"
+	"github.com/zhengying/apns"
 	"os"
 	"path/filepath"
 )
